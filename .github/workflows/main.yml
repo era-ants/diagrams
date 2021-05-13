@@ -16,7 +16,7 @@ jobs:
       - uses: severgroup-tt/actions-drawio-cli@v0.0.2
         with:
           source: src/
-          destination: png/
+          destination: png/*.png
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           file_pattern: png/*.png
