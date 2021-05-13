@@ -1,0 +1,23 @@
+name: export-pngs
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  export-pngs:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - uses: severgroup-tt/actions-drawio-cli@v0.0.2
+        with:
+          source: src/
+          destination: png/
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          file_pattern: png/*.png
+          commit_message: Обновлены .png-файлы диаграмм
