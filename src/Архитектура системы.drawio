@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-14T09:26:27.860Z" agent="5.0 (X11)" etag="YnlIxhiIX08HsVfHoogI" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-14T09:33:28.241Z" agent="5.0 (X11)" etag="oZe3MTsUGCKpTJTBV3EX" version="14.6.12" type="github">
   <diagram id="34vrvRRAlJCRwnYxmeFD" name="Page-1">
-    <mxGraphModel dx="1929" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,12 +148,12 @@
         <mxCell id="Uk2LnbRoLzC0EG5coboL-44" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;sketch=0;fontSize=18;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" parent="Uk2LnbRoLzC0EG5coboL-92">
           <mxGeometry x="23" y="15" width="45" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Uk2LnbRoLzC0EG5coboL-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=none;startFill=1;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="Uk2LnbRoLzC0EG5coboL-61" target="Uk2LnbRoLzC0EG5coboL-43">
+        <mxCell id="Uk2LnbRoLzC0EG5coboL-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=none;startFill=1;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="Uk2LnbRoLzC0EG5coboL-86" target="Uk2LnbRoLzC0EG5coboL-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uk2LnbRoLzC0EG5coboL-57" value="&lt;div&gt;Получают информацию о карте,&lt;/div&gt;&lt;div&gt;льготах, условиях получения;&lt;/div&gt;&lt;div&gt;задают вопросы;&lt;/div&gt;&lt;div&gt;оставляют отзывы.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Uk2LnbRoLzC0EG5coboL-56">
           <mxGeometry x="0.1112" y="3" relative="1" as="geometry">
-            <mxPoint x="-13" y="4" as="offset" />
+            <mxPoint x="-18" y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Uk2LnbRoLzC0EG5coboL-53" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -173,7 +173,7 @@
         </mxCell>
         <mxCell id="Uk2LnbRoLzC0EG5coboL-85" value="&lt;div&gt;Получают информацию о своей&lt;br&gt;карте и льготах;&lt;/div&gt;&lt;div&gt;получают информацию о бонусах,&lt;br&gt;историю их пополнения и&lt;/div&gt;&lt;div&gt;расходов;&lt;/div&gt;&lt;div&gt;бронируют места в кафе.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="Uk2LnbRoLzC0EG5coboL-84">
           <mxGeometry x="-0.3052" relative="1" as="geometry">
-            <mxPoint x="-64" y="19" as="offset" />
+            <mxPoint x="-64" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Uk2LnbRoLzC0EG5coboL-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;startArrow=none;startFill=1;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="Uk2LnbRoLzC0EG5coboL-45" target="Uk2LnbRoLzC0EG5coboL-50">
@@ -199,6 +199,24 @@
         </mxCell>
         <mxCell id="Uk2LnbRoLzC0EG5coboL-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=24;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="MDeY4u07FMFDs0mSU84t-2" target="Uk2LnbRoLzC0EG5coboL-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2LnbRoLzC0EG5coboL-100" value="Легенда" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2LnbRoLzC0EG5coboL-103" value="Компонент системы" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=middle;fontSize=18;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-110" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2LnbRoLzC0EG5coboL-106" value="Сервис" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;sketch=0;fontSize=18;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-30" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2LnbRoLzC0EG5coboL-107" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="-110" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2LnbRoLzC0EG5coboL-108" value="GUI веб-сервис" style="shape=module;align=left;spacingLeft=50;align=center;verticalAlign=middle;fillColor=#6a00ff;strokeColor=#3700CC;fontSize=18;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="Uk2LnbRoLzC0EG5coboL-107">
+          <mxGeometry width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Uk2LnbRoLzC0EG5coboL-109" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;sketch=0;fontSize=18;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;" vertex="1" parent="Uk2LnbRoLzC0EG5coboL-107">
+          <mxGeometry x="23" y="15" width="45" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
