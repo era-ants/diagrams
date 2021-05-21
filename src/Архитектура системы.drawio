@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T11:57:09.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36 Edg/90.0.818.62" etag="8FGBa6r0VAPukBP8jL6z" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T19:12:35.088Z" agent="5.0 (X11)" etag="zXjls0jG3mzUFphkcu6K" version="14.7.0" type="github">
   <diagram id="34vrvRRAlJCRwnYxmeFD" name="Page-1">
-    <mxGraphModel dx="2062" dy="1981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry y="40" width="370" height="740" as="geometry" />
         </mxCell>
         <mxCell id="0n9djQx3XLWaUtbw8gn7-1" value="Внешние сервисы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="2020" y="110" width="390" height="540" as="geometry" />
+          <mxGeometry x="2020" y="110" width="390" height="630" as="geometry" />
         </mxCell>
         <mxCell id="0n9djQx3XLWaUtbw8gn7-4" value="Сервисы платежной системы" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2175" y="190" width="80" height="80" as="geometry" />
@@ -314,6 +314,12 @@
         </mxCell>
         <mxCell id="N314iQGruW275S-hB0Kt-22" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png;sketch=0;fontSize=18;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;labelBackgroundColor=none;" parent="N314iQGruW275S-hB0Kt-20" vertex="1">
           <mxGeometry x="23" y="15" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bBt5OHryMrykg1eDJq9Y-3" value="Сервис авторизации" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNDUuOTQxNDY3Mjg1MTU2MjUiIGhlaWdodD0iMjMuMDAwMDAxOTA3MzQ4NjMzIiB2aWV3Qm94PSIwIDAgMTQ1Ljk0MTQ2NzI4NTE1NjI1IDIzLjAwMDAwMTkwNzM0ODYzMyI+PHBhdGggZmlsbD0iI0VFM0Y1OCIgZD0iTTk1LjMuNkg4My40Yy0uMSAwLS4yLjEtLjIuMi0uMyA1LjQtMS4zIDExLjItMi44IDE1Ljl2LjJjLjEuMS4xLjEuMi4xaDQuMWMuMSAwIC4yLS4xLjItLjFDODYgMTMuMyA4NyA4LjUgODcuMyA0LjVoMy45djEyLjRjMCAuMS4xLjIuMi4yaDMuOWMuMSAwIC4yLS4xLjItLjJWLjljMC0uMi0uMS0uMy0uMi0uM00xNDUuOC42aC0zLjljLS4xIDAtLjIuMS0uMi4ydjEyLjNjLS45LjMtMS43LjMtMi43LjMtMi42IDAtMy4yLS44LTMuMi00LjJWLjljMC0uMS0uMS0uMi0uMi0uMmgtMy45Yy0uMSAwLS4yLjEtLjIuMnY4LjljMCA1LjYgMS45IDcuNyA2LjcgNy43IDIuNyAwIDUuOC0uNyA3LjYtMS40LjEgMCAuMS0uMS4xLS4yVi45Yy4xLS4yIDAtLjMtLjEtLjNNNjMuMi43aC00Yy0uMSAwLS4yLjEtLjIuMS0uNiAyLjQtMS45IDYuNS0zLjYgMTAuOEw1MS40LjdjMC0uMS0uMS0uMS0uMi0uMWgtNGMtLjEgMC0uMS4xLS4yLjEtLjEuMS0uMS4xIDAgLjJsNiAxNi4zYy0uNiAxLjMtMS4yIDIuMy0xLjcgMy4zLS40LjctLjggMS41LTEuMiAyLjItLjEuMSAwIC4xIDAgLjIuMS4xLjEuMS4yLjFoNC4zYy4xIDAgLjEtLjEuMi0uMS43LTEuNCAxLjctMy40IDIuNS01LjRDNTkuOCAxMS42IDYxLjkgNiA2My40LjljMC0uMSAwLS4xLS4xLS4yaC0uMU03Ny40IDEzLjJjMC0uMS0uMS0uMS0uMS0uMWgtLjJjLS45LjMtMi43LjctNCAuNy0yLjcgMC00LS43LTQtNC45IDAtMy4zLjQtNC45IDQtNC45IDEgMCAyIC4xIDMuMi41LjEgMCAuMiAwIC4zLS4xLjUtLjkgMS0xLjkgMS42LTMuMlYxYzAtLjEtLjItLjItLjItLjItMS42LS41LTMuNS0uOC01LjItLjgtNS43IDAtOC4yIDIuNi04LjIgOC43czIuNSA4LjggOC4yIDguOGMxLjQgMCA0LjItLjMgNS42LS45LjEtLjEuMS0uMS4xLS4zbC0xLjEtMy4xek0xMTQuNS43aC00Yy0uMSAwLS4yLjEtLjIuMS0uNiAyLjQtMS45IDYuNS0zLjYgMTAuOGwtNC0xMC45YzAtLjEtLjEtLjEtLjItLjFoLTRjLS4xIDAtLjEuMS0uMi4xLS4xLjEtLjEuMSAwIC4ybDYgMTYuM2MtLjYgMS4zLTEuMiAyLjItMS43IDMuMy0uNC43LS44IDEuNS0xLjIgMi4yLS4xLjEgMCAuMSAwIC4yLjEuMS4xLjEuMi4xaDQuM2MuMSAwIC4xLS4xLjItLjEuNy0xLjQgMS43LTMuNCAyLjUtNS40IDIuNS01LjkgNC42LTExLjUgNi0xNi42IDAtLjEgMC0uMS0uMS0uMi4xIDAgMCAwIDAgME0xMjkuMS42aC0xMS41Yy0uMSAwLS4yLjEtLjIuMnYxNS45YzAgLjEuMS4yLjIuMmgzLjljLjEgMCAuMi0uMS4yLS4yVjQuNGg2Yy4xIDAgLjItLjEuMi0uMS41LTEuMS45LTIuMiAxLjQtMy40Vi43Yy0uMSAwLS4yLS4xLS4yLS4xIi8+PHBhdGggZmlsbD0iIzAwNjVCMSIgZD0iTTIwLjggMTMuOGMtMi42IDAtMy40LS43LTMuNC01IDAtNC42LjktNSAzLjQtNXMzLjUuNCAzLjUgNWMtLjEgNC40LS45IDUtMy41IDVtMC0xMy43QzE1LjIuMSAxMyAyLjUgMTMgOC43YzAgNi4zIDIuMiA4LjcgNy44IDguN3M3LjktMi40IDcuOS04LjdjMC02LjEtMi4zLTguNi03LjktOC42TTQ0LjIgMTMuMmMwLS4xLS4xLS4xLS4xLS4xaC0uMmMtLjkuMy0yLjcuNy00IC43LTIuNyAwLTQtLjctNC00LjkgMC0zLjMuNC00LjkgNC00LjkgMSAwIDIgLjEgMy4yLjUuMSAwIC4yIDAgLjMtLjEuNS0uOSAxLTEuOSAxLjYtMy4yVjFjMC0uMS0uMS0uMS0uMS0uMS0xLjUtLjUtMy41LS43LTUuMS0uNy01LjcgMC04LjIgMi42LTguMiA4LjdzMi41IDguOCA4LjIgOC44YzEuNCAwIDQuMi0uMyA1LjYtLjkuMS0uMS4xLS4xLjEtLjNsLTEuMy0zLjN6TTExLjcuNkguMkMuMS42IDAgLjcgMCAuOXYxNS45YzAgLjEuMS4yLjIuMmgzLjljLjEgMCAuMi0uMS4yLS4yVjQuNGg2Yy4xIDAgLjEtLjEuMi0uMS41LTEuMSAxLTIuMyAxLjQtMy40Vi43cy0uMS0uMS0uMi0uMSIvPjwvc3ZnPg==;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="2147" y="473.5" width="146" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="bBt5OHryMrykg1eDJq9Y-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Uk2LnbRoLzC0EG5coboL-94" target="bBt5OHryMrykg1eDJq9Y-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
